@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.n26</groupId>
+	<groupId>com.txstats</groupId>
 	<artifactId>coding-challenge</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.0</version>
 
-	<name>n26_coding_challenge</name>
+	<name>coding_challenge</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
